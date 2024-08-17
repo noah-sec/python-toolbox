@@ -1,4 +1,4 @@
-# From CrytoHack.org course
+# Created while participating in course: CryptoHack.org 
 
 text = 'label'
 

@@ -1,4 +1,4 @@
-# From CryptoHack.org course
+# Created while participating in course: CryptoHack.org
 
 from Crypto.Util.number import *
 

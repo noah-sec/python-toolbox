@@ -1,3 +1,5 @@
+# Created while participating in course: TCM Security - Practical Ethical Hacking (The Complete Course)
+
 def encrypt(key, message):
     ciphertext = [''] * key
     for x in range(key):
